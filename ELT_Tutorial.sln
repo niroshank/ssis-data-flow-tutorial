@@ -17,6 +17,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ETL_Tutorial_Day_3", "ETL_T
 EndProject
 Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Integration Services Project Day 03", "Integration Services Project Day 03\Integration Services Project Day 03.dtproj", "{347C9197-25D3-471F-8B7F-8C94609D5DBD}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ETL_Tutorial_Day_4", "ETL_Tutorial_Day_4", "{436C0F50-4BF2-4396-86A6-E6F1BBF46C37}"
+	ProjectSection(SolutionItems) = preProject
+		script.sql = script.sql
+	EndProjectSection
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Integration Services Project Day 04", "Integration Services Project Day 04\Integration Services Project Day 04.dtproj", "{BB9AE670-6FD7-45E5-B392-F183CD2DB7F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Development|Default = Development|Default
@@ -26,6 +33,8 @@ Global
 		{7686F4A9-B8DB-4AA7-81D0-E6FBFF7ABDF8}.Development|Default.Build.0 = Development
 		{347C9197-25D3-471F-8B7F-8C94609D5DBD}.Development|Default.ActiveCfg = Development
 		{347C9197-25D3-471F-8B7F-8C94609D5DBD}.Development|Default.Build.0 = Development
+		{BB9AE670-6FD7-45E5-B392-F183CD2DB7F6}.Development|Default.ActiveCfg = Development
+		{BB9AE670-6FD7-45E5-B392-F183CD2DB7F6}.Development|Default.Build.0 = Development
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -33,6 +42,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{7686F4A9-B8DB-4AA7-81D0-E6FBFF7ABDF8} = {09C16127-0BA2-45A9-8F71-F31F95BE9228}
 		{347C9197-25D3-471F-8B7F-8C94609D5DBD} = {F227E0A7-B6CA-4625-B3E2-4E8B12FB1336}
+		{BB9AE670-6FD7-45E5-B392-F183CD2DB7F6} = {436C0F50-4BF2-4396-86A6-E6F1BBF46C37}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A7AF7465-9639-4993-AB27-B5A957133C2F}

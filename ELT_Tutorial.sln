@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ETL_Tutorial_Day_2", "ETL_Tutorial_Day_2", "{09C16127-0BA2-45A9-8F71-F31F95BE9228}"
+	ProjectSection(SolutionItems) = preProject
+		SqlQuery.sql = SqlQuery.sql
+	EndProjectSection
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Integration Services Project Day 02", "Integration Services Project Day 02\Integration Services Project Day 02.dtproj", "{7686F4A9-B8DB-4AA7-81D0-E6FBFF7ABDF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7686F4A9-B8DB-4AA7-81D0-E6FBFF7ABDF8}.Development|Default.ActiveCfg = Development
+		{7686F4A9-B8DB-4AA7-81D0-E6FBFF7ABDF8}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7686F4A9-B8DB-4AA7-81D0-E6FBFF7ABDF8} = {09C16127-0BA2-45A9-8F71-F31F95BE9228}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7AF7465-9639-4993-AB27-B5A957133C2F}
+	EndGlobalSection
+EndGlobal

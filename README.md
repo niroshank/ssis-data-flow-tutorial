@@ -1,11 +1,11 @@
 # SQL Server Integration Services Tutorials
 This set of tutorials explain how to merge, aggregate and combine data using SSIS using Visual Studio and SQL Server Management Studio.
 
-## Setup for tutorial
+## Installing Integration Services
 
 1. **Review the following information:**
-    + [Hardware and Software Requirements for Installing SQL Server](https://docs.microsoft.com/en-us/sql/sql-server/install/hardware-and-software-requirements-for-installing-sql-server?view=sql-server-ver15)
-    * [Security Considerations for a SQL Server Installation](https://docs.microsoft.com/en-us/sql/sql-server/install/security-considerations-for-a-sql-server-installation?view=sql-server-ver15]
+    * [Hardware and Software Requirements for Installing SQL Server](https://docs.microsoft.com/en-us/sql/sql-server/install/hardware-and-software-requirements-for-installing-sql-server?view=sql-server-ver15)
+    * [Security Considerations for a SQL Server Installation](https://docs.microsoft.com/en-us/sql/sql-server/install/security-considerations-for-a-sql-server-installation?view=sql-server-ver15)
 2. **Integration Services (SSIS).** Install SSIS with the SQL Server Setup wizard. Selecting SSIS installs the following things:
     * Support for the SSIS Catalog on the SQL Server Database Engine.
     * Optionally, the Scale Out feature, which consists of a Master and Workers.
@@ -29,8 +29,10 @@ This set of tutorials explain how to merge, aggregate and combine data using SSI
     * Azure SQL Data Warehouse.
     * Azure Data Lake Storage (Gen2).
 
+# Create a new Integration Services project
 
-
-
-
+    * Open SQL Server Data Tools (SSDT).
+    * On the File menu, point to New, and then click Project.
+    * In the New Project dialog box, select Business Intelligence, and then select the Integration Services Project template.
+    * The Integration Services Project template creates an Integration Services project that contains a single, empty package.
 

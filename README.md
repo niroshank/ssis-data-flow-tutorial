@@ -4,7 +4,7 @@ This set of tutorials explain how to merge, aggregate and combine data using SSI
 ## Setup for tutorial
 
 1. **Review the following information:**
-    ..* [Hardware and Software Requirements for Installing SQL Server](https://docs.microsoft.com/en-us/sql/sql-server/install/hardware-and-software-requirements-for-installing-sql-server?view=sql-server-ver15)
+    + [Hardware and Software Requirements for Installing SQL Server](https://docs.microsoft.com/en-us/sql/sql-server/install/hardware-and-software-requirements-for-installing-sql-server?view=sql-server-ver15)
     * [Security Considerations for a SQL Server Installation](https://docs.microsoft.com/en-us/sql/sql-server/install/security-considerations-for-a-sql-server-installation?view=sql-server-ver15]
 2. **Integration Services (SSIS).** Install SSIS with the SQL Server Setup wizard. Selecting SSIS installs the following things:
     * Support for the SSIS Catalog on the SQL Server Database Engine.

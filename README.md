@@ -30,9 +30,8 @@ This set of tutorials explain how to merge, aggregate and combine data using SSI
     * Azure Data Lake Storage (Gen2).
 
 # Create a new Integration Services project
-
-    * Open SQL Server Data Tools (SSDT).
-    * On the File menu, point to New, and then click Project.
-    * In the New Project dialog box, select Business Intelligence, and then select the Integration Services Project template.
-    * The Integration Services Project template creates an Integration Services project that contains a single, empty package.
+ * Open SQL Server Data Tools (SSDT).
+ * On the File menu, point to New, and then click Project.
+ * In the New Project dialog box, select Business Intelligence, and then select the Integration Services Project template.
+ * The Integration Services Project template creates an Integration Services project that contains a single, empty package.
 
